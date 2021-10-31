@@ -54,6 +54,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   margin-left: 20px;
+  cursor: pointer;
 }
 .button-primary {
   background: #1890FF;
@@ -169,6 +170,8 @@ body {
   align-items: center;
   flex-wrap: wrap;
   margin-top: 0;
+  padding-left: 23px;
+    padding-right: 23px;
   
 }
 .card-buttons {
@@ -287,6 +290,7 @@ line-height: 42px;
   font-size: 36px;
   border: none;
   background-color: transparent; 
+  cursor: pointer;
 }
 .modal-body {
   margin-bottom: 52px;
